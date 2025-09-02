@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Important Note:-
+
+The add-schools functionality will only work locally that's why I've exported the DB and added it in the repository itself(schooldb_schools.sql). You may download the repository and import the DB in mySQL workbench along with the installation of required dependencies and run the entire project.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 First, run the development server:
 
